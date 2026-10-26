@@ -54,4 +54,4 @@ Using the calibrated 12-Month PD, an assumed historical LGD of 93.72%, and the E
 
 ---
 **Author:** Raymond Sibanda | [LinkedIn](https://www.linkedin.com/in/raymond-sibanda)
-| FRM | BSc Mathematics
+| FRM | BSc Mathematics | BCom Honours Accounting
