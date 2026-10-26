@@ -1,0 +1,4 @@
+Step,Action,Rows_Affected,Reason
+Initial Sample,None,150000,Baseline
+Drop Missing Values,Dropped,150,Missing critical credit data (<0.1%)
+Impute Emp Length,Imputed,8741,Median imputation to preserve volume
